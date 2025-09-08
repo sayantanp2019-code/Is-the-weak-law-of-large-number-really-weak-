@@ -1,1 +1,2 @@
-# Is-the-weak-law-of-large-number-really-weak-
+# Is-the-weak-law-of-large-number-really-weak?
+This project investigate the validity of Khinchin's weak law of large numbers (WLLN) beyond the classical framework of independent and identically distributed (i.i.d.) sequence of random variables. In this project, we investigate : what happens if the sequence of random variables are just independent (but not identical)? we find that the weak law of large numbers (WLLN) still holds in such cases, as long as the sequence of random variables have finite means and the overall variability is in control- that ensure convergence in probability of the sample average to a limiting mean.
